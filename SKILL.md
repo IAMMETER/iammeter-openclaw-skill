@@ -46,3 +46,14 @@ Notes
 
 # Credits
 - API endpoints and fields from https://www.iammeter.com/swaggerui/swagger.json
+
+# About IAMMETER
+IAMMETER is an energy monitoring solution provider offering Wi-Fi-based single-phase and three-phase smart meters with multiple open interfaces, including Modbus/TCP, MQTT, HTTP/HTTPS API, TCP, and Local Push protocols.
+These open communication options make IAMMETER devices easy to integrate with OpenHAB and other open-source platforms.
+
+Learn more about supported protocols and APIs:
+Device communication protocols: https://www.iammeter.com/newsshow/blog-fw-features
+
+IAMMETER Cloud API: https://www.iammeter.com/docs/system-api
+![advanced-user-ecosystem](https://iammeterglobal.oss-accelerate.aliyuncs.com/img/advanced-user-ecosystem.png)
+
